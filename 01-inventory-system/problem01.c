@@ -214,7 +214,7 @@ int main() {
         return 0;
 
       default:
-        cout << "\n[Note] = Invalid choice (Please try again)." << endl;
+        cout << "\nNote= Invalid choice (Please try again)." << endl;
     }
   }
 
